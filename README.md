@@ -1,15 +1,15 @@
-# AI Voice Assistant 🤖🎤
+# AI Voice Assistant 
 
 A smart voice assistant built with LiveKit Agents that can control temperature in different rooms through natural voice commands.
 
-## Features ✨
+## Features 
 
 - **Voice Interaction**: Natural speech-to-text and text-to-speech using OpenAI
 - **Temperature Control**: Get and set temperature for different rooms
 - **Multi-room Support**: Control temperature in living room, bedroom, kitchen, bathroom, and office
 - **Real-time Communication**: Uses LiveKit for real-time voice interaction
 
-## Supported Commands 🗣️
+## Supported Commands 
 
 ### Get Temperature
 - "What's the temperature in the bedroom?"
@@ -21,7 +21,7 @@ A smart voice assistant built with LiveKit Agents that can control temperature i
 - "Change the kitchen temperature to 18"
 - "Make the living room 23 degrees"
 
-## Setup Instructions 🛠️
+## Setup Instructions 
 
 ### Prerequisites
 - Python 3.11+
@@ -63,7 +63,7 @@ A smart voice assistant built with LiveKit Agents that can control temperature i
    python main.py start
    ```
 
-## Project Structure 📁
+## Project Structure 
 
 ```
 AI-Voice-Assistant/
@@ -82,7 +82,7 @@ AI-Voice-Assistant/
 3. **Function Execution**: Executes temperature control functions based on the command
 4. **Voice Output**: Uses OpenAI's Text-to-Speech (TTS) to respond with voice
 
-## Room Zones 🏠
+## Room Zones 
 
 The assistant supports temperature control for:
 - Living Room
@@ -91,14 +91,14 @@ The assistant supports temperature control for:
 - Bathroom
 - Office
 
-## Technologies Used 🚀
+## Technologies Used 
 
 - **LiveKit Agents**: Real-time voice interaction framework
 - **OpenAI API**: Speech-to-text, language model, and text-to-speech
 - **Silero VAD**: Voice activity detection
 - **Python 3.11**: Core programming language
 
-## Contributing 🤝
+## Contributing 
 
 1. Fork the repository
 2. Create a feature branch
@@ -106,14 +106,14 @@ The assistant supports temperature control for:
 4. Test thoroughly
 5. Submit a pull request
 
-## License 📄
+## License 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support 💬
+## Support 
 
 If you encounter any issues or have questions, please create an issue in this repository.
 
 ---
 
-**Built with ❤️ using LiveKit Agents and OpenAI**
+**Built with using LiveKit Agents and OpenAI**
