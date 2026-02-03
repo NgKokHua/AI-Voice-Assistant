@@ -32,7 +32,7 @@ A smart voice assistant built with LiveKit Agents that can control temperature i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/AI-Voice-Assistant.git
+   git clone https://github.com/NgKokHua/AI-Voice-Assistant.git
    cd AI-Voice-Assistant
    ```
 
